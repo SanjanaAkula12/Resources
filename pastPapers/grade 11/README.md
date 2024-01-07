@@ -1,3 +1,3 @@
 ## Format
 
-/(current directory)/subject/year/contents
+/(current directory)/year/subject/contents
